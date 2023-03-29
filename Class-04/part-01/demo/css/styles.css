@@ -1,0 +1,64 @@
+h1{
+/* property:value; */
+background-color: lightblue;
+font-size: 100px;
+color: green;
+/* color: rgb(200,100,20); */
+}
+
+#second{
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    border: 5px solid rebeccapurple;   
+    margin: 50px; 
+    }
+
+/* div */
+.box{
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    border: 10px dotted #333;
+    margin: 200px;
+}
+div{
+    background-color: greenyellow;
+}
+
+p{
+    /* top right buttom left */
+margin: 100px 20px 10px 50px;
+border: 1px solid red;
+padding: 20px;
+background-color:aqua ;
+}
+
+div p {
+    background-color: blue;
+}
+
+/* pseudo-classes */
+
+div p:first-child{
+    background-color: brown;
+}
+div p:nth-child(3){
+    background-color: deeppink;
+}
+
+button:hover{
+    background-color: yellow;
+}
+
+li::before{
+    content: "✔";
+    color: green;
+    font-weight: bolder;
+}
+
+/* p,div,h1{
+
+} */
+
+/* positions */
