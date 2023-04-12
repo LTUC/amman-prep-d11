@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>class 07 objects</title>
+  </head>
+  <body>
+    <header id="myHeader"></header>
+    <main>
+      <section>
+        <h2>Available Drinks</h2>
+      </section>
+      <section>
+        <table id="drinksTable">
+          <tr>
+            <th>Name</th>
+            <th>Price</th>
+          </tr>
+          <!-- <tr>
+            <td>mocha</td>
+            <td>3</td>
+          </tr> -->
+        </table>
+      </section>
+      <section>
+        <form id="drinksForm">
+          <fieldset>
+            <legend>Adding New Drink</legend>
+            <label for="">Drink Name:</label>
+            <input
+              type="text"
+              id="drinkName"
+              name="dName"
+              placeholder="please enter a drink name"
+            />
+            <br />
+            <label for="ingredients">Ingredients:</label>
+            <input
+              type="text"
+              id="ingredients"
+              name="ingredients"
+              placeholder="separated by comma"
+            />
+            <br />
+            <label for="image">Image Link:</label>
+            <input type="text" id="image" name="image" />
+            <br />
+            <label for="cold">Cold</label>
+            <input type="checkbox" id="cold" name="cold" value="cold" />
+            <br />
+            <label for="hot">Hot</label>
+            <input type="checkbox" id="hot" name="hot" value="hot" />
+
+            <!-- <br />
+            <label for="hot">Hot</label>
+            <input type="radio" id="hot" name="hot" value="hot" />
+            <br />
+            <label for="cold">Cold</label>
+            <input type="radio" id="cold" name="cold" value="cold" /> -->
+            <br />
+            <input type="submit" name="" id="" value="Add New Drink" />
+          </fieldset>
+          <!-- <fieldset>
+            <legend>another one</legend>
+          </fieldset> -->
+        </form>
+      </section>
+      <section id="drinksSection">
+        <!-- <ul>
+          <li>Espresso</li>
+        </ul>
+        <img src="./assets/espresso.png" alt="" /> -->
+      </section>
+    </main>
+    <footer>
+      <h2>ASAC Team 2023</h2>
+    </footer>
+    <script src="./drink.js"></script>
+    <!-- <script src="./random.js"></script> -->
+    <!-- <script src="./app.js"></script> -->
+    <!-- <script src="events.js"></script> -->
+    <!-- <script src="./mylocalStoreage.js"></script> -->
+  </body>
+</html>
