@@ -4,11 +4,12 @@
 
 Student will:
 
-- Get to know and Deal with Railway platform and deploy database and server.
-- Get to know Heroku platform.
+- Get to know and Deal with Render platform and deploy database and server.
 
 ## Resources:
 
+- [What is Render](https://render.com/)
+- [Render Documentation](https://render.com/docs)
 - [What is Railway](https://railway.app/)
 - [Railway Documentation](https://docs.railway.app/getting-started)
 - [What is Heroku](https://mentormate.com/blog/what-is-heroku-used-for-cloud-development/)
@@ -17,6 +18,7 @@ Student will:
 
 ### Keywords to search for:
 
+- Render
 - Railway
 - Backend deployment
 - Heroku

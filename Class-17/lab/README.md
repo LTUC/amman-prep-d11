@@ -6,11 +6,11 @@
 
 ## Requirements:
 
-- Use the Railway cheatsheet (as demonstrated in the demo) to deploy your server
-- You can get back to the Railway documentation provided in the class resources.
+- Use the Render (as demonstrated in the demo) to deploy your server.
+- You can get back to the Render documentation provided in the class resources.
 
 ## Submission Instructions:
 
-- Submit a link for the deployed version of your code on Railway.
+- Submit a link for the deployed version of your code on Render.
 - What observations or questions do you have about what you’ve learned so far?
 - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
