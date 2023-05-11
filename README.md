@@ -2,16 +2,16 @@
 
 ## Course Modules:
 
-| Module #1 : HTML, CSS, Javascript                                | Module #2 : Javascript                                                   | Module #3 : Full-Stack Development                      | Module #4 : Full-Stack Development                                                    |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Class 01: Git, GitHub and, Terminal](Class-01/README.md)        | [Class 06: Javascript: Loops and Functions](./Class-06/README.md)         | [Class 11: React: Introduction ](./Class-11/README.md)    | [Class 16: CRUD](./Class-16/README.md)                              |
-| [Class 02: GitHub Branches and Wireframes](./Class-02/README.md) | [Class 07: Javascript: Hoisting, Objects and, DOM](./Class-07/README.md)  | [Class 12: Routing, Conditional Rendering, Events and, State](./Class-12/README.md)      | [Class 17: Backend Deployment](./Class-17/README.md) |
-| [Class 03: HTML](./Class-03/README.md)                           | [Class 08: Javascript: DOM Manipulation and Events](./Class-08/README.md) | [Class 13: Building a Server](Class-13/README.md)          | [Class 18: Hooks and Linking Frontend with Backend](./Class-18/README.md)           |
-| [Class 04: CSS](./Class-04/README.md)                            | [Class 09: Local Storage and JSON](./Class-09/README.md)                  | [Class 14: 3rd Party API](./Class-14/README.md)              | [Class 19: Frontend Deployment](./Class-19/README.md)                               |
-| [Class 05: Javascript: Introduction](./Class-05/README.md)       | [Class 10: Recursive Function and Regex ](./Class-10/README.md)           | [Class 15: Databases](./Class-15/README.md) | [Class 20: Installation](./Class-20/README.md)                                               |
-
+| Module #1 : HTML, CSS, Javascript                                | Module #2 : Javascript                                                    | Module #3 : Full-Stack Development                                                  | Module #4 : Full-Stack Development                                        |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Class 01: Git, GitHub and, Terminal](Class-01/README.md)        | [Class 06: Javascript: Loops and Functions](./Class-06/README.md)         | [Class 11: React: Introduction ](./Class-11/README.md)                              | [Class 16: CRUD](./Class-16/README.md)                                    |
+| [Class 02: GitHub Branches and Wireframes](./Class-02/README.md) | [Class 07: Javascript: Hoisting, Objects and, DOM](./Class-07/README.md)  | [Class 12: Routing, Conditional Rendering, Events and, State](./Class-12/README.md) | [Class 17: Backend Deployment](./Class-17/README.md)                      |
+| [Class 03: HTML](./Class-03/README.md)                           | [Class 08: Javascript: DOM Manipulation and Events](./Class-08/README.md) | [Class 13: Building a Server](Class-13/README.md)                                   | [Class 18: Hooks and Linking Frontend with Backend](./Class-18/README.md) |
+| [Class 04: CSS](./Class-04/README.md)                            | [Class 09: Local Storage and JSON](./Class-09/README.md)                  | [Class 14: 3rd Party API](./Class-14/README.md)                                     | [Class 19: Frontend Deployment](./Class-19/README.md)                     |
+| [Class 05: Javascript: Introduction](./Class-05/README.md)       | [Class 10: Recursive Function and Regex ](./Class-10/README.md)           | [Class 15: Databases](./Class-15/README.md)                                         | [Class 20: Installation](./Class-20/README.md)                            |
 
 ## Code Challenges:
+
 | #                 | Link                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | Code Challenge 06 | [Arrays](./Class-06/Code-Challenge-06/README.md)                   |
@@ -29,6 +29,6 @@
 | Code Challenge 18 | [String, Array](./Class-18/Code-Challenge-18/README.md)            |
 | Code Challenge 19 | [HackerRank - 03](./Class-19/Code-Challenge-19/README.md)          |
 
-
 ## Course Timeline:
-[Schedule Link](https://alqudscollege-my.sharepoint.com/:x:/g/personal/advtech_ltuc_com/EeV1QcYCko5CmyofLr9rydABIg2T8VcnyY2P-Ck9TuLhZw?e=ykeNZl)
+
+[Schedule Link](https://alqudscollege-my.sharepoint.com/:x:/g/personal/advtech_ltuc_com/EcZeqGxGO5VIngZJKHhaukIB_xhK_UH7vTfAJgIQ5m1Qrg?e=yElbol)
