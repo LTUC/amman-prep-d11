@@ -63,7 +63,11 @@ function updatefavMemeHandler(req, res) {
     const sql = `UPDATE memes SET image_path=$1, meme_name=$2, rank=$3, tags=$4, top_text=$5 WHERE id=${id} RETURNING *;`;
     const values = [meme.image_path, meme.meme_name, meme.rank, meme.tags, meme.top_text];
     client.query(sql, values).then(data => {
-        res.status(200).json(data.rows);
+        const newsql = `select * from memes;`
+        client.query(newsql).then((data) => {
+            res.status(200).json(data.rows);
+        })
+        // res.status(200).json(data.rows);
         // or you can send 204 status with no content
         // return res.status(200).json(data.rows);
     }).catch(err => {
