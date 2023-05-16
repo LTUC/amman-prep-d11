@@ -9,7 +9,6 @@ function FavList() {
         const result = await axios.get(serverUrl);
         console.log(result.data);
         setFavMemes(result.data);
-
     }
     useEffect(() => {
         sendReq();
